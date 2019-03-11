@@ -7,13 +7,13 @@ The current classification system includes the following families;
 
 |Family| Sub-family| Type protein| Accession| Function|
 | -----|----|---- | ------------|-------------|
-|Family I| 1| D50587| True lipase|
-||2| X70354| True lipase|
-||3| D11455| True lipase|
-||4| M74010| True lipase|
-||5| U78785| True lipase|
-||6| M12715| True lipase|
-||7| X99255| True lipase|
+|Family I| 1|| D50587| True lipase|
+||2|| X70354| True lipase|
+||3|| D11455| True lipase|
+||4|| M74010| True lipase|
+||5|| U78785| True lipase|
+||6|| M12715| True lipase|
+||7|| X99255| True lipase|
 ||8| LipG| DQ458963| True lipase|
 ||9| RlipE1| FJ529693| -|
 ||10| MPlaG| EU285670| Phospholipase|
