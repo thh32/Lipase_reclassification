@@ -61,7 +61,7 @@ If you have a novel lipolytic enzyme and wish to either identify which family it
 - ClustalW
 
 ### Method
-- Place your proteins amino acid sequence into the 'Representative_sequences.faa' file
+- Place your proteins amino acid sequence into the latest 'Type_proteins_[MONTH]_[YEAR].faa' file
 - Open and run the commands within the 'Pairwise_analysis.ipynb' scipt
 - This will produce a file called 'Pairwise_similarities.csv'
 - Within this file the similarity of your protein to each representative is provided
