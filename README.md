@@ -70,4 +70,4 @@ If you have a novel lipolytic enzyme and wish to either identify which family it
 
 
 ## Addition of a new lipolytic enzyme 
-Wish to include a novel lipolytic enzyme within this classification system please contact open an issue and provide both your lipases sequence and the paper in which you describe the biochemical properties of your protein. We will then confirm the sequence novelty of your protein along with its published biochemical properties and place it within the system.
+Wish to include a novel lipolytic enzyme within this classification system please open an issue on this repository and provide both your lipases amino acid sequence and the paper in which you describe the biochemical properties of your protein. We will then confirm the sequence novelty of your protein along with its published biochemical properties and place it within the classification system.
