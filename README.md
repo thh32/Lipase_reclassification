@@ -63,10 +63,10 @@ If you have a novel lipolytic enzyme and wish to either identify which family it
 
 ### Method
 - Place your proteins amino acid sequence into the latest 'Type_proteins_[MONTH]_[YEAR].faa' file
-- Open and run the commands within the 'Pairwise_analysis.ipynb' scipt
+- Open and run the commands within the 'Pairwise_analysis.ipynb' script
 - This will produce a file called 'Pairwise_similarities.csv'
 - Within this file the similarity of your protein to each representative is provided
-- Sequence similarity below 60% indicates novelty, if your sequence has a value above this compare the biochemical properties of your protein and that of the representative it matched to confirm they belong to the same family
+- Sequence similarity below 60% indicates novelty, a value above 60% suggests your protein may be a member of the matching family. To confirm this compare the biochemical properties of your protein and that of the representative it matched to identify if they belong to the same family
 
 
 ## Addition of a new lipolytic enzyme 
