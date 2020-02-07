@@ -1,6 +1,6 @@
 # A proposed update for the classification and description of bacterial lipolytic enzymes
 
-This is a repository for the deposit and classification of lipolytic enzymes based on the proposed classification system in Hitch and Clavel (TBP).
+This is a repository for the deposit and classification of lipolytic enzymes based on the proposed classification system in Hitch and Clavel (2019) (https://peerj.com/articles/7249/).
 
 
 The current classification system includes the following families;
