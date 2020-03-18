@@ -61,6 +61,17 @@ If you have a novel lipolytic enzyme and wish to either identify which family it
 - Python
 - ClustalW
 
+### Easy set-up
+Running the code yourself can be done by following these comands;
+- First, install Conda for python 2.7 (https://www.anaconda.com/distribution/#download-section)
+- Install clustalW via; `conda install -c biobuilds clustalw`
+- Download this repository somewhere and unzip it, once done run the command; `jupyter notebook`
+- Select and open the `Pairwise_analysis.ipynb` script and change the `clustalw` command to `clustalw2`
+- Enter the appropriate file names into the script as stated below
+
+You should now have your results, ready for interpretation.
+
+
 ### Method
 - Place your proteins amino acid sequence into the latest 'Type_proteins_[MONTH]_[YEAR].faa' file
 - Open and run the commands within the 'Pairwise_analysis.ipynb' script
