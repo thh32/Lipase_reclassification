@@ -73,7 +73,7 @@ You should now have your results, ready for interpretation.
 
 
 ### Method
-- Place your proteins amino acid sequence into the latest 'Type_proteins_[MONTH]_[YEAR].faa' file
+- Place your proteins amino acid sequence into the latest 'Type_proteins_[MONTH]_[YEAR].faa' file and rename it `All_proteins.faa`
 - Open and run the commands within the 'Pairwise_analysis.ipynb' script
 - This will produce a file called 'Pairwise_similarities.csv'
 - Within this file the similarity of your protein to each representative is provided
